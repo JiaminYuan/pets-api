@@ -1,3 +1,3 @@
 # pets-api
-Web Services Winter 2023
-By Jiamin Yuan and Emmy Ea
+# Web Services Project Winter 2023
+# By Jiamin Yuan and Emmy Ea
